@@ -1,2 +1,2 @@
 # JoseFco04.github.io
-Repositorio de prueba para iaw
+## En esta práctica hemos usado jekyll para crear una página en la cuál podemos subir posts y podemos accceder a través del nombre del repositorio.
